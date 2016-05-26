@@ -1,0 +1,1 @@
+A super stripped down HTML/CSS/JS boilerplate for learning jQuery
